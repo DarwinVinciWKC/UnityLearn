@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//https://www.youtube.com/watch?v=lctXaT9pxA0
 public class SphereVertex : MonoBehaviour
 {
     public int numHorizontalSegments;
